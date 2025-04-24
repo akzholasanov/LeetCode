@@ -23,7 +23,3 @@ Here I store solutions, take notes, and study smart 💪
 ---
 
 ## 📘 Notes
-
-- [DP Patterns](notes/dp_patterns.md)
-- [Graph Techniques](notes/graph_notes.md)
-- [Common Mistakes](notes/common_mistakes.md)
