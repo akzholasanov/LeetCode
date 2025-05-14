@@ -19,6 +19,7 @@ Here I store solutions, take notes, and study smart 💪
 | #    | Title                  | Difficulty | Solution                             | Tags                |
 |------|------------------------|------------|--------------------------------------|---------------------|
 | 1    | Two Sum                | Easy       | [Link](easy/0001-two-sum.ts)         | Hash Table          |
+| 9    | Palindrome Number      | Easy       | [Link](easy/0009-palindrome-number.ts)| Math                |
 
 ---
 
